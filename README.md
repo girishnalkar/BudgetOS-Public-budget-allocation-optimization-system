@@ -74,18 +74,6 @@ Open your browser and navigate to `http://localhost:5173/` (or the URL provided 
 4. **AI Agents:** Consult specialized AI agents (Leakage Agent, Diagnosis Agent, Scenario Agent) for tailored advice.
 5. **Scenario Planner:** Experiment with different allocation sliders to see real-time impact simulations.
 
----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/girishnalkar/BudgetOS-Public-budget-allocation-optimization-system/issues).
 
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
----
-
-<p align="center">Made with ❤️ for smarter public spending.</p>
