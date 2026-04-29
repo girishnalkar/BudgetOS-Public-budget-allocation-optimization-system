@@ -2,8 +2,6 @@
 
 **BudgetOS** is an AI-powered district budget intelligence and optimization platform. It helps authorities make data-driven decisions on public spending, track fund leakages, and simulate budget allocations across multiple sectors—ensuring every rupee goes where it's most needed.
 
-![BudgetOS Preview](public/vite.svg) <!-- Replace with an actual screenshot of the app -->
-
 ---
 
 ## ✨ Key Features
